@@ -5,7 +5,6 @@ import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import CardMedia from '@material-ui/core/CardMedia';
 import Typography from '@material-ui/core/Typography';
-
 const styles = {
   card: {
     maxWidth: 300,
@@ -44,7 +43,8 @@ function ImgMediaCard(props) {
 ImgMediaCard.propTypes = {
   classes: PropTypes.object.isRequired,
   title: PropTypes.string.isRequired,
-  content: PropTypes.string.isRequired
+  content: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired
 };
 
 export default withStyles(styles)(ImgMediaCard);
