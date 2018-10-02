@@ -36,6 +36,7 @@ class Home extends Component{
                     this.state.sunSigns.map((signo)=>{
                         return(
                             <Card 
+                                key={signo.name}
                                 title={signo.name}
                                 content={signo.love}
                                 url='https://storage.googleapis.com/mmc-elcaribe-bucket/uploads/2018/09/4df34464-horoscopo-17-abril-t.jpg'
