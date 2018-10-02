@@ -1,7 +1,8 @@
 .center{
   display: flex;
   justify-content: center;
-  align-items: center
+  align-items: center;
+  flex-direction: column
 }
 
 .HomeGrid{
@@ -9,4 +10,16 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
-  }
+}
+
+.Title{
+  font-family: 'Sofia', cursive;
+  font-size: 10vh;
+  color: white;
+  margin: 20px 40px;
+}
+.TitleContainer{
+  border: 10px solid white;
+  border-radius: 30px;
+  margin: 5vh 0vh 5vh;
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Home from '../App/Containers/home.js'
+import Home from '../App/Containers/home'
 
 const Index = () => {  
   return <Home/>;
