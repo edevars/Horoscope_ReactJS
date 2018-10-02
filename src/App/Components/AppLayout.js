@@ -3,9 +3,11 @@ import style from './AppLayout.css'
 
 const AppLyaout = (props) => {
    return(
-       <section className={style.HomeGrid}>
-            {props.children}
-       </section>
+       <div className={style.center}>
+            <section className={style.HomeGrid}>
+                {props.children}
+            </section>
+       </div>
    )
 }
 
