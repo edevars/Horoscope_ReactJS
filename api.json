@@ -1,0 +1,115 @@
+{
+    "titulo": "1 octubre",
+    "horoscopo": {
+        "aries": {
+            "nombre": "Aries",
+            "fechaSigno": "21 de marzo al 20 de abril",
+            "amor": "Trata de mantenerte firme en la decisi\u00f3n que tomaste ya que fue por tu propio bien.",
+            "salud": "Cuidado con los accidentes al iniciar el mes.",
+            "dinero": "si act\u00faas con irresponsabilidad al iniciar octubre las consecuencias repercutir\u00e1n en el resto del mes.",
+            "color": "Blanco.",
+            "numero": "1."
+        },
+        "tauro": {
+            "nombre": "Tauro",
+            "fechaSigno": "21 de abril al 20 de mayo",
+            "amor": "La venganza tarde o temprano te terminar\u00e1 llevando por un camino equivocado.",
+            "salud": "No inicies el mes carreteando m\u00e1s de lo que corresponde. TRABAJO: Buen inicio de mes si de oportunidades laborales se trata. No debes desperdiciarlas.",
+            "dinero": "Rojo.",
+            "color": "3.",
+            "numero": ""
+        },
+        "geminis": {
+            "nombre": "G\u00e9minis",
+            "fechaSigno": "21 de mayo al 21 de junio",
+            "amor": "Si haces lo correcto nadie tiene por qu\u00e9 recriminarte nada.",
+            "salud": "Cuando se trata de edad del esp\u00edritu no tiene nada que ver la edad corporal.",
+            "dinero": "Puede que los resultados no se vean de inmediato pero a la larga tu gesti\u00f3n ser\u00e1 positiva.",
+            "color": "Marr\u00f3n.",
+            "numero": "21."
+        },
+        "cancer": {
+            "nombre": "C\u00e1ncer",
+            "fechaSigno": "22 de junio al 22 de julio",
+            "amor": "Mu\u00e9strate como una persona leal y ver\u00e1s c\u00f3mo logras llegar a conquistar a esa persona m\u00e1s r\u00e1pidamente.",
+            "salud": "Evita iniciar este me con un alto nivel de estr\u00e9s.",
+            "dinero": "El tener ahorras te permitir\u00e1 enfrentar los contratiempos de mejor manera.",
+            "color": "Granate.",
+            "numero": "12."
+        },
+        "leo": {
+            "nombre": "Leo",
+            "fechaSigno": "23 de julio al 22 de agosto",
+            "amor": "Traten de darle respiro a la relaci\u00f3n que tienen.",
+            "salud": "Apoyar a quien est\u00e1 delicado\/a de salud es muy importante para su recuperaci\u00f3n.",
+            "dinero": "Mu\u00e9strate como una persona de confianza para tus empleadores.",
+            "color": "Gris.",
+            "numero": "8."
+        },
+        "virgo": {
+            "nombre": "Virgo",
+            "fechaSigno": "23 de agosto al 22 de septiembre",
+            "amor": "Los\/as comprometidos\/as deben cuidar bien su relaci\u00f3n para evitar que terceros terminen por entrometerse.",
+            "salud": "Molestias en las articulaciones por excederte en las actividades.",
+            "dinero": "Las cosas andar\u00e1n lentas.",
+            "color": "Caf\u00e9.",
+            "numero": "7."
+        },
+        "libra": {
+            "nombre": "Libra",
+            "fechaSigno": "23 de septiembre al 22 de octubre",
+            "amor": "Est\u00e1s en plena primavera, inicia el mes dejando que el amor fluya en tu interior.",
+            "salud": "Culmina el d\u00eda con una simple sonrisa. TRABAJO: Ord\u00e9nate desde ya para tener un inicio de quincena excelente y que repercuta en todo el mes.",
+            "dinero": "Morado.",
+            "color": "13.",
+            "numero": ""
+        },
+        "escorpion": {
+            "nombre": "Escorpi\u00f3n",
+            "fechaSigno": "23 de octubre al 22 de noviembre",
+            "amor": "Hay cosas mejores en la vida que pelear con los tuyos por cosas triviales.",
+            "salud": "No hay grandes complicaciones pero deber\u00e1s continuar cuid\u00e1ndote. TRABAJO: Trata de ordenar tus proyectos de acuerdo a su prioridad.",
+            "dinero": "Rosado.",
+            "color": "25.",
+            "numero": ""
+        },
+        "sagitario": {
+            "nombre": "Sagitario",
+            "fechaSigno": "23 de noviembre al 20 de diciembre",
+            "amor": "Tienes que darle tiempo al tiempo para que la otra persona puede asimilar bien las cosas.",
+            "salud": "Se responsable con sus chequeos m\u00e9dicos. TRABAJO: Si te capacitas tendr\u00e1s m\u00e1s armas para poder enfrentar nuevos desaf\u00edos laborales.",
+            "dinero": "Crema.",
+            "color": "15.",
+            "numero": ""
+        },
+        "capricornio": {
+            "nombre": "Capricornio",
+            "fechaSigno": "21 de diciembre al 20 de enero",
+            "amor": "Es tiempo de enmendar las cosas para que todo entre ustedes pueda resurgir nuevamente. Estas en el momento para jug\u00e1rtela en conquistar.",
+            "salud": "Hoy primero de octubre trata de cuidarte para iniciar bien este nuevo mes.",
+            "dinero": "Se m\u00e1s busquilla de trabajo.",
+            "color": "Verde.",
+            "numero": "13."
+        },
+        "acuario": {
+            "nombre": "Acuario",
+            "fechaSigno": "21 de enero al 19 de febrero",
+            "amor": "Comenzar las cosas desde cero es una buena oportunidad para hacer las cosas del modo correcto.",
+            "salud": "No te desgastes tanto al iniciar este mes, aun te queda mucho. TRABAJO: Comienza octubre realizando las gestiones necesarias para mejorar tu econom\u00eda.",
+            "dinero": "Azul.",
+            "color": "5.",
+            "numero": ""
+        },
+        "piscis": {
+            "nombre": "Piscis",
+            "fechaSigno": "20 de febrero al 20 de marzo",
+            "amor": "La verdadera belleza est\u00e1 dentro de ti, lo externo es solo la pantalla, pero lo importante es lo que tienes en tu interior.",
+            "salud": "Comienza este mes de octubre alej\u00e1ndote de los vicios. TRABAJO: T\u00fa puedes brillar en tu trabajo, pero te falta motivaci\u00f3n.",
+            "dinero": "Celeste.",
+            "color": "28.",
+            "numero": ""
+        }
+    },
+    "fuente": "http:\/\/www.login.cl\/horoscopo",
+    "autor": "Yolanda Sultana"
+}
